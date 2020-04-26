@@ -45,7 +45,7 @@ __C.MODEL = AttrDict()
 __C.MODEL.INIT_TYPE = 'xavier'
 # Configure the model type for the encoder, e.g.ResNeXt50_32x4d_body_stride16
 __C.MODEL.ENCODER = train_args.encoder
-__C.MODEL.MODEL_REPOSITORY = 'datasets/pretrained_model'
+__C.MODEL.MODEL_REPOSITORY = 'pretrained_model'
 __C.MODEL.PRETRAINED_WEIGHTS = train_args.pretrained_model
 __C.MODEL.LOAD_IMAGENET_PRETRAINED_WEIGHTS = True
 

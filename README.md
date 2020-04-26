@@ -18,12 +18,17 @@ Please refer to [KITTI dataset](http://www.cvlibs.net/datasets/kitti/eval_depth.
 The annotation files of [KITTI Object subset]() used in our work are provided.
 
 ## Models
-Download the trained model from this [link](https://cloudstor.aarnet.edu.au/plus/s/M3LFxiDPZkMKrtw) and put it under expriments/foresee/.
+Download the trained model from this [link](https://cloudstor.aarnet.edu.au/plus/s/M3LFxiDPZkMKrtw) and put it under experiments/foresee/.
 
 ## Testing
 
       cd experiments/foresee
       sh test.sh
+ 
+## Training
+
+      cd experiments/foresee
+      sh train.sh
   
 ## Citations
 

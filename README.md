@@ -15,7 +15,7 @@ This implementation is based on [VNL](https://github.com/YvanYin/VNL_Monocular_D
 ## Dataset
 
 Please refer to [KITTI dataset](http://www.cvlibs.net/datasets/kitti/eval_depth.php?benchmark=depth_prediction) for details.
-The annotation files of [KITTI Object subset]() used in our work are provided.
+The annotation files of [KITTI Object subset](https://github.com/WXinlong/ForeSeE/tree/master/datasets/KITTI_object/annotations) used in our work are provided.
 
 ## Models
 Download the trained model from this [link](https://cloudstor.aarnet.edu.au/plus/s/M3LFxiDPZkMKrtw) and put it under experiments/foresee/.
